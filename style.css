@@ -1,7 +1,7 @@
 body {
 	color:white;
-	background:#333;
-	font-family:Courier;
+background:#006DB0;
+	font-family:Verdana;
 	width:960px;
 	margin:auto;
 }
@@ -14,16 +14,16 @@ header, main, footer {
 }
 
 header, main h1 {
-	color:#00ff00;
+	color:silver;
 }
 
 a, a:visited {
-	color:#c0c0c0;
+	color:yellow;
 	text-decoration:none;
 }
 
 a:hover {
-	color: #77ccee;
+	color: purple;
 	text-decoration: none;
 }
 
@@ -41,9 +41,9 @@ a:hover {
 	margin-bottom:20px;
 	margin-right:10px;
 	height:30px;
-	width:110px;
+	width:113px;
 	text-align:center;
 	font-size:13px;
-	border: 2px solid #006DB0;
-	border-radius:10px;
+	border: 2px dashed black;
+	border-radius:18%;
 }
