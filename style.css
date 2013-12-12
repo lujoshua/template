@@ -49,4 +49,4 @@ a:hover {
 	border: 2px dashed black;
 	border-radius:18%;
 }
-p{font-family:Verdana; font-size:20px;text-indent:4em}
+p{font-family:Verdana; font-size:20px;text-indent:4em; float:left;}
