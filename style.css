@@ -26,19 +26,9 @@ a:hover {
 	color: purple;
 	text-decoration: none;
 }
-p{font-family:Verdana; font-size:20px;text-indent:4em}
 
-#menu{	display:block;
-	float: left;
-	padding:5px;
-	margin-bottom:20px;
-	margin-right:10px;
-	height:30px;
-	width:113px;
-	text-align:center;
-	font-size:13px;
-	border: 2px solid yellow;
-	border-radius:18%;}
+
+
 
 #nav {
 	list-style: none;
@@ -60,3 +50,4 @@ p{font-family:Verdana; font-size:20px;text-indent:4em}
 	border: 2px dashed black;
 	border-radius:18%;
 }
+p{font-family:Verdana; font-size:20px;text-indent:4em}
