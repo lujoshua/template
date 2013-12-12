@@ -26,7 +26,7 @@ a:hover {
 	color: purple;
 	text-decoration: none;
 }
-p{font-family:Verdana; font-size:20px}
+p{font-family:Verdana; font-size:20px;text-indent:4em}
 
 #nav {
 	list-style: none;
