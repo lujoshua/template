@@ -26,6 +26,7 @@ a:hover {
 	color: purple;
 	text-decoration: none;
 }
+p{font-family:Garamond; font-size:15px}
 
 #nav {
 	list-style: none;
